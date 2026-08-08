@@ -1,0 +1,1 @@
+To comment out selected part ctrl+ /
